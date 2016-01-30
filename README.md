@@ -51,3 +51,6 @@ T   |  T  |  T  |  T  |  F  |  T  |  T
    - Resolution
 
 #WEEK 3:
+
+  * I learned that Zero is not an odd number.
+  * And learned the even and odd functions.
