@@ -183,6 +183,13 @@ T   |  T  |  T  |  T  |  F  |  T  |  T
 * I took a lot of practice just to pass my programming subjects last year and I did pass but the downside was I really did not remember most of my programming skills. 
 * DISMATH on Week 8 gave me a refresher on how to create algorithms based on the function we would like to have.
 * Examples of functions that we discussed was  Linear Search, Binary Search, Bubble Sorts, Insertion Sort, etc.
+* I was happy that I watched the video presented about sorting, which was a video about people dancing and sorting themselves.
+* With the video, I really understand better about the sorting algorithms.
+
+#WEEK 9:
+* It is said that Bubble Sort is the simplest of all the sorting algorithms but it takes a lot of time to sort therefore it is not that efficient.
+* Similarly, the insertion sort is also simple but not efficient.
+* Greedy Algorith is also known as an algorith which is used to find an efficient way to solve a program.
 * 
 
 #WEEK 11:
