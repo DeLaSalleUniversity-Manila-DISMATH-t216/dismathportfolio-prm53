@@ -172,13 +172,14 @@ T   |  T  |  T  |  T  |  F  |  T  |  T
 
 * **Proof by Counterexample** was introduced where in it is a proof that allows us to prove that a argument is not true by providing an example where it does not hold.
 * And **Mathematical Induction** was introduced as well where I already encountered it in ENGALG1, but somewhat aleady forgotten.
-* 
 
 #WEEK 7:
 * There was no Classes during week 7.
 
 #WEEK 8:
-* This week was the introduction about Algorithms, which makes me think of programming and lets me remember my programming classes that I took a year ago. 
+* We were introduced to Set Theories which was simple to understand because I am familiar with sets because of my elementary math.
+* Where in Set is an unordered collection of distinct objects that also includes other sets.
+* This week was also the introduction about Algorithms, which makes me think of programming and lets me remember my programming classes that I took a year ago. 
 * It was difficut to remember what I learned about programming last year because I was not good in programming and I have difficulty in thinking the logic behind something that I want to do. 
 * I took a lot of practice just to pass my programming subjects last year and I did pass but the downside was I really did not remember most of my programming skills. 
 * DISMATH on Week 8 gave me a refresher on how to create algorithms based on the function we would like to have.
@@ -191,6 +192,9 @@ T   |  T  |  T  |  T  |  F  |  T  |  T
 * Similarly, the insertion sort is also simple but not efficient.
 * Greedy Algorith is also known as an algorith which is used to find an efficient way to solve a program.
 * 
+
+#WEEK 10:
+*
 
 #WEEK 11:
 * There was no Clasess during week 11.
