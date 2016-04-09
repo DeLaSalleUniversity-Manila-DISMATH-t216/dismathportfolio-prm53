@@ -175,6 +175,6 @@ T   |  T  |  T  |  T  |  F  |  T  |  T
 * 
 
 #WEEK 11:
-*The topics for this week is my favorite compared to those of the other weeks which are more focused on logical reasoning and on proofs and algorithm. I found those topics quite difficult and hard to understand and comprehend, but I believe that I could manage to learn this things in the long term.
-*In this week, We were challenged individually to analyze drawings in a more detailed way. The use of our imagination and spatial thinking skills is important since we need to analyze if a figure is planar or not.
+* The topics for this week is my favorite compared to those of the other weeks which are more focused on logical reasoning and on proofs and algorithm. I found those topics quite difficult and hard to understand and comprehend, but I believe that I could manage to learn this things in the long term.
+* In this week, We were challenged individually to analyze drawings in a more detailed way. The use of our imagination and spatial thinking skills is important since we need to analyze if a figure is planar or not.
 *
