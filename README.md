@@ -186,15 +186,37 @@ T   |  T  |  T  |  T  |  F  |  T  |  T
 * Examples of functions that we discussed was  Linear Search, Binary Search, Bubble Sorts, Insertion Sort, etc.
 * I was happy that I watched the video presented about sorting, which was a video about people dancing and sorting themselves.
 * With the video, I really understand better about the sorting algorithms.
+* Pseudocodes were actually one of the important things that I learned in algorithms because without Pseudocodes, it is impossible to create a good fully functioning algorith since this will be the basis of creating a algorithm.
+* Functions is a relation between a set of inputs and a set of permissible outputs with the property that each input is related to exactly one output.
+* For example is that if we let X & Y be sets. Then, a function f from X to Y is an assignment of exactly one element of B to each element of A
+*There are different types of Functions:
+  * One to One (Injective)
+  * Onto (Surjective)
+  * One to one (Bijection)
+
 
 #WEEK 9:
 * It is said that Bubble Sort is the simplest of all the sorting algorithms but it takes a lot of time to sort therefore it is not that efficient.
 * Similarly, the insertion sort is also simple but not efficient.
-* Greedy Algorith is also known as an algorith which is used to find an efficient way to solve a program.
-* 
+* Greedy Algorithm is also known as an algorith which is used to find an efficient way to solve a program.
+* Greedy Algorithms is like teaching a computer to choose the best.
+* These type of Algorithms can also grow in such way.
 
 #WEEK 10:
-*
+* Growth Functions are introduced this week. This functions uses different notations such as Big-O, Big-Omega, and Big-Theta.
+* Where in the Big-O is commonly used in to estimate the number of operations an algorithm uses as its input grows.
+* On the other hand, the Big-Omega Notation is used when the lower bound is needed while Big-Theta is used when both upper and lower bound is needed.
+* The complexities of was also discussed throughout the week.
+
+|         Complexity        |                           Termninology                         |	
+|:-------------------:|:--------------------------------------------------------------:|
+|    Big Theta of 1      |                     Constant Complexity                          |
+|    Big Theta of log(n)   |                   Logarithmic Complexity                     |
+|    Big Theta of n      |                     Linear Complexity                             |
+|    Big Theta of n log(n) |                   Linearithmic Complexity                             |
+|    Big Theta of 1       |                    Polynomial Complexity                      |
+|    Big Theta of b^n     |                    Exponential Complexity                         |
+|    Big Theta of n!       |                   Factorial Complexity                           |
 
 #WEEK 11:
 * There was no Clasess during week 11.
@@ -202,4 +224,14 @@ T   |  T  |  T  |  T  |  F  |  T  |  T
 #WEEK 12:
 * The topics for this week is my favorite compared to those of the other weeks which are more focused on logical reasoning and on proofs and algorithm. I found those topics quite difficult and hard to understand and comprehend, but I believe that I could manage to learn this things in the long term.
 * In this week, We were challenged individually to analyze drawings in a more detailed way. The use of our imagination and spatial thinking skills is important since we need to analyze if a figure is planar or not.
-* 
+* The main topic for this week was Graph Theory which consists of Euler Circuits, Euler Path, Hamilton Circuits and Paths.
+* Graph is defined as a structure that has edges and degrees and can either be finite or infinite.
+* The most satisfying graph that I have seen from the class discussion was the graph of the typical social network.
+* I learned that every Euler Circuit or Path should always pass evey edge once and on the other hand the Hamilton Circuit or Path should always pass every node once.
+* The technique that I learned on how to determine Euler Circuit and Euler Path from each other is that a Euler Circuit should have all nodes that have even degrees.
+* For Euler Path, there should exactly be 2 nodes that have odd degree.
+* Hamilton Path should pass all every node exactly once and Hamilton Circuit should pass every node once also but must return to the starting node.
+
+#WEEK 13:
+ * Graph Coloring was the topic that introduced on this week.
+ * Graph Coloring is just relating two nodes which are adjacent to each other and set them together.
